@@ -10,6 +10,6 @@ QTool
 QQCleaner Lite
 TSBattery
 XAutoDaily
-HMSPush
+HMSPush 
 
 安装包大小在200兆左右
