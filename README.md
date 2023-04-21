@@ -6,10 +6,16 @@ QQ频道：fdak0r464r
 
 目前已有模块：
 QAuxiliay（已停止维护）
+
 QTool
+
 QQCleaner Lite
+
 TSBattery
+
 XAutoDaily
+
 HMSPush 
+
 
 安装包大小在200兆左右
